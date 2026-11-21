@@ -161,3 +161,6 @@ data/
 *.pth
 *.pt
 *.ckpt
+
+# Exception: this specific model is a task deliverable, must be committed
+!model_baseline.pth
